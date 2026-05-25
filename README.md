@@ -132,7 +132,13 @@ The project includes Tableau visualizations focused on:
 Example visualizations are included in the `/visuals` folder.
 
 ---
+## Interactive Dashboard
 
+View the interactive Tableau dashboard here:
+
+[Photovoltaic Curtailment Dashboard] (https://public.tableau.com/views/el_sena_share_phase_dashboard/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
 ## Recommendations
 
 Based on the analysis, several potential opportunities were identified:
