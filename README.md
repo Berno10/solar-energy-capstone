@@ -139,6 +139,13 @@ View the interactive Tableau dashboard here:
 [Photovoltaic Curtailment Dashboard] (https://public.tableau.com/views/el_sena_share_phase_dashboard/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
+## Kaggle Notebook
+
+Interactive project notebook available on Kaggle:
+
+[Kaggle Notebook] (https://www.kaggle.com/code/bernardonuez/photovoltaic-curtailment-analysis)
+
+---
 ## Recommendations
 
 Based on the analysis, several potential opportunities were identified:
