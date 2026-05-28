@@ -12,9 +12,12 @@ This project was completed as part of the Google Data Analytics Professional Cer
 
 ## Business Problem
 
-Hybrid solar-diesel systems are widely used in isolated regions to improve energy access and reduce fossil fuel dependence. However, operational constraints may prevent the full utilization of available solar energy.
+Hybrid solar-diesel systems are commonly used in isolated regions to ensure energy access. However, operational and system constraints often prevent full utilization of available solar energy.
 
-This project investigates how much photovoltaic energy remains unused despite favorable solar resource conditions and evaluates how operational behavior influences renewable energy integration and diesel generation dependence.
+This project investigates:
+- How much photovoltaic energy is actually utilized vs. wasted
+- How operational behavior affects renewable integration
+- Why diesel generation remains high despite solar availability
 
 ---
 
@@ -118,6 +121,20 @@ These findings suggest the presence of operational constraints limiting renewabl
 
 ---
 
+## Business Impact
+
+This analysis highlights inefficiencies in hybrid energy systems where available renewable energy is not fully utilized.
+
+The findings can support:
+
+- Improved coordination between diesel and photovoltaic generation  
+- Optimization of dispatch strategies in hybrid systems  
+- Evaluation of energy storage solutions (e.g., batteries)  
+- Reduction of fossil fuel dependency in isolated grids  
+- Better planning for renewable energy integration in rural regions  
+
+---
+
 ## Visualizations
 
 The project includes Tableau visualizations focused on:
@@ -136,14 +153,14 @@ Example visualizations are included in the `/visuals` folder.
 
 View the interactive Tableau dashboard here:
 
-[Photovoltaic Curtailment Dashboard] (https://public.tableau.com/views/el_sena_share_phase_dashboard/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Photovoltaic Curtailment Dashboard](https://public.tableau.com/views/el_sena_share_phase_dashboard/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 ## Kaggle Notebook
 
 Interactive project notebook available on Kaggle:
 
-[Kaggle Notebook] (https://www.kaggle.com/code/bernardonuez/photovoltaic-curtailment-analysis)
+[Kaggle Notebook](https://www.kaggle.com/code/bernardonuez/photovoltaic-curtailment-analysis)
 
 ---
 ## Recommendations
@@ -178,4 +195,4 @@ solar-energy-capstone/
 │   ├── tableau_workbook.twb
 │   └── charts_and_dashboards/
 │
-└── README.txt
+└── README.md
